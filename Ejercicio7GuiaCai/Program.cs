@@ -7,7 +7,9 @@
 
             Ejercicios ej = new Ejercicios();
             //ej.ej39();
-            ej.ej41();
+            //ej.ej41();
+            //ej.ej42();
+            ej.ej43();
 
         }
     }
